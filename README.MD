@@ -24,6 +24,9 @@ qr.SetBackground(&qrcode.Background{
 qr.SetForeground("../static/2.png")
 ```
 
+![image](https://github.com/lihaotian0607/qrcode/blob/master/resources/qr-avatar.png)
+![image](https://github.com/lihaotian0607/qrcode/blob/master/resources/qr-bg.png)
+![image](https://github.com/lihaotian0607/qrcode/blob/master/resources/qr-fg.png)
 ![image](https://github.com/lihaotian0607/qrcode/blob/master/resources/20200510170738.png)
 ![image](https://github.com/lihaotian0607/qrcode/blob/master/resources/20200510170741.png)
 ![image](https://github.com/lihaotian0607/qrcode/blob/master/resources/20200510170755.png)
