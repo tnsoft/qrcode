@@ -10,7 +10,7 @@
 
 ## 设置背景图
 ```
-qr.SetBackground(&qrcode.Background{
+qr.SetBackgroundImage(&qrcode.SetBackgroundImage{
 		Src:    "../static/3.png",
 		X:      70,
 		Y:      55,
@@ -21,7 +21,7 @@ qr.SetBackground(&qrcode.Background{
 
 ## 设置前景图
 ```
-qr.SetForeground("../static/2.png")
+qr.SetForegroundImage("../static/2.png")
 ```
 
 ![image](https://github.com/lihaotian0607/qrcode/blob/master/resources/qr-avatar.png)
