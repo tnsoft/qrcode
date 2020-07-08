@@ -9,14 +9,14 @@
 ```
 
 ## 设置背景图
-```
+```go
 qr.SetBackgroundImage(&qrcode.SetBackgroundImage{
 		Src:    "../static/3.png",
 		X:      70,
 		Y:      55,
 		Width:  270,
 		Height: 270,
-	})
+})
 ```
 
 ## 设置前景图
